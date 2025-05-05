@@ -1,0 +1,120 @@
+THREAD=1, BLOCK=24
+Thread: 1, Block size: 24, Time: 11482.24 ms
+Thread: 1, Block size: 24, Time: 11758.31 ms
+Thread: 1, Block size: 24, Time: 12086.37 ms
+Thread: 1, Block size: 24, Time: 11635.62 ms
+Thread: 1, Block size: 24, Time: 11568.18 ms
+THREAD=2, BLOCK=24
+Thread: 2, Block size: 24, Time: 5909.75 ms
+Thread: 2, Block size: 24, Time: 5903.73 ms
+Thread: 2, Block size: 24, Time: 5906.60 ms
+Thread: 2, Block size: 24, Time: 5897.34 ms
+Thread: 2, Block size: 24, Time: 5899.62 ms
+THREAD=4, BLOCK=24
+Thread: 4, Block size: 24, Time: 3030.51 ms
+Thread: 4, Block size: 24, Time: 3012.00 ms
+Thread: 4, Block size: 24, Time: 3006.58 ms
+Thread: 4, Block size: 24, Time: 3025.01 ms
+Thread: 4, Block size: 24, Time: 3042.49 ms
+THREAD=8, BLOCK=24
+Thread: 8, Block size: 24, Time: 1726.16 ms
+Thread: 8, Block size: 24, Time: 1770.07 ms
+Thread: 8, Block size: 24, Time: 1747.66 ms
+Thread: 8, Block size: 24, Time: 1721.44 ms
+Thread: 8, Block size: 24, Time: 1730.52 ms
+THREAD=16, BLOCK=24
+Thread: 16, Block size: 24, Time: 1408.48 ms
+Thread: 16, Block size: 24, Time: 1408.68 ms
+Thread: 16, Block size: 24, Time: 1401.00 ms
+Thread: 16, Block size: 24, Time: 1405.32 ms
+Thread: 16, Block size: 24, Time: 1405.08 ms
+THREAD=1, BLOCK=32
+Thread: 1, Block size: 32, Time: 11552.03 ms
+Thread: 1, Block size: 32, Time: 11524.21 ms
+Thread: 1, Block size: 32, Time: 11491.82 ms
+Thread: 1, Block size: 32, Time: 11558.31 ms
+Thread: 1, Block size: 32, Time: 11496.62 ms
+THREAD=2, BLOCK=32
+Thread: 2, Block size: 32, Time: 5883.21 ms
+Thread: 2, Block size: 32, Time: 5896.04 ms
+Thread: 2, Block size: 32, Time: 5878.53 ms
+Thread: 2, Block size: 32, Time: 5905.68 ms
+Thread: 2, Block size: 32, Time: 5878.35 ms
+THREAD=4, BLOCK=32
+Thread: 4, Block size: 32, Time: 3017.69 ms
+Thread: 4, Block size: 32, Time: 2988.38 ms
+Thread: 4, Block size: 32, Time: 3003.55 ms
+Thread: 4, Block size: 32, Time: 3009.64 ms
+Thread: 4, Block size: 32, Time: 3007.88 ms
+THREAD=8, BLOCK=32
+Thread: 8, Block size: 32, Time: 1703.29 ms
+Thread: 8, Block size: 32, Time: 1701.01 ms
+Thread: 8, Block size: 32, Time: 1702.31 ms
+Thread: 8, Block size: 32, Time: 1741.05 ms
+Thread: 8, Block size: 32, Time: 1688.70 ms
+THREAD=16, BLOCK=32
+Thread: 16, Block size: 32, Time: 1394.69 ms
+Thread: 16, Block size: 32, Time: 1404.13 ms
+Thread: 16, Block size: 32, Time: 1392.66 ms
+Thread: 16, Block size: 32, Time: 1394.49 ms
+Thread: 16, Block size: 32, Time: 1414.04 ms
+THREAD=1, BLOCK=64
+Thread: 1, Block size: 64, Time: 11595.86 ms
+Thread: 1, Block size: 64, Time: 11656.06 ms
+Thread: 1, Block size: 64, Time: 11612.59 ms
+Thread: 1, Block size: 64, Time: 11574.56 ms
+Thread: 1, Block size: 64, Time: 11688.09 ms
+THREAD=2, BLOCK=64
+Thread: 2, Block size: 64, Time: 5916.04 ms
+Thread: 2, Block size: 64, Time: 5982.62 ms
+Thread: 2, Block size: 64, Time: 6074.33 ms
+Thread: 2, Block size: 64, Time: 6318.16 ms
+Thread: 2, Block size: 64, Time: 7405.94 ms
+THREAD=4, BLOCK=64
+Thread: 4, Block size: 64, Time: 3102.58 ms
+Thread: 4, Block size: 64, Time: 3146.06 ms
+Thread: 4, Block size: 64, Time: 3119.46 ms
+Thread: 4, Block size: 64, Time: 3154.86 ms
+Thread: 4, Block size: 64, Time: 3197.18 ms
+THREAD=8, BLOCK=64
+Thread: 8, Block size: 64, Time: 1840.31 ms
+Thread: 8, Block size: 64, Time: 1845.64 ms
+Thread: 8, Block size: 64, Time: 1883.24 ms
+Thread: 8, Block size: 64, Time: 1869.10 ms
+Thread: 8, Block size: 64, Time: 1885.00 ms
+THREAD=16, BLOCK=64
+Thread: 16, Block size: 64, Time: 1410.36 ms
+Thread: 16, Block size: 64, Time: 1396.39 ms
+Thread: 16, Block size: 64, Time: 1401.90 ms
+Thread: 16, Block size: 64, Time: 1410.78 ms
+Thread: 16, Block size: 64, Time: 1412.82 ms
+THREAD=1, BLOCK=96
+Thread: 1, Block size: 96, Time: 12339.98 ms
+Thread: 1, Block size: 96, Time: 12296.28 ms
+Thread: 1, Block size: 96, Time: 12123.80 ms
+Thread: 1, Block size: 96, Time: 12174.30 ms
+Thread: 1, Block size: 96, Time: 12113.65 ms
+THREAD=2, BLOCK=96
+Thread: 2, Block size: 96, Time: 6184.52 ms
+Thread: 2, Block size: 96, Time: 6177.87 ms
+Thread: 2, Block size: 96, Time: 6161.45 ms
+Thread: 2, Block size: 96, Time: 6178.51 ms
+Thread: 2, Block size: 96, Time: 6181.40 ms
+THREAD=4, BLOCK=96
+Thread: 4, Block size: 96, Time: 3134.61 ms
+Thread: 4, Block size: 96, Time: 3134.56 ms
+Thread: 4, Block size: 96, Time: 3151.82 ms
+Thread: 4, Block size: 96, Time: 3174.89 ms
+Thread: 4, Block size: 96, Time: 3163.01 ms
+THREAD=8, BLOCK=96
+Thread: 8, Block size: 96, Time: 1795.39 ms
+Thread: 8, Block size: 96, Time: 1831.86 ms
+Thread: 8, Block size: 96, Time: 1806.72 ms
+Thread: 8, Block size: 96, Time: 1809.89 ms
+Thread: 8, Block size: 96, Time: 1802.19 ms
+THREAD=16, BLOCK=96
+Thread: 16, Block size: 96, Time: 1457.82 ms
+Thread: 16, Block size: 96, Time: 1469.65 ms
+Thread: 16, Block size: 96, Time: 1481.19 ms
+Thread: 16, Block size: 96, Time: 1477.68 ms
+Thread: 16, Block size: 96, Time: 1462.07 ms
